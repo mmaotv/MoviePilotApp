@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoviePilot</string>
+    <string name="hint_server_url">服务器地址</string>
+    <string name="hint_username">用户名</string>
+    <string name="hint_password">密码</string>
+    <string name="remember_credentials">记住账号和密码</string>
+    <string name="login">登 录</string>
+    <string name="login_failed">登录失败，请检查账号密码</string>
+    <string name="network_error">网络连接失败，请检查服务器地址</string>
+    <string name="loading">加载中...</string>
+</resources>
