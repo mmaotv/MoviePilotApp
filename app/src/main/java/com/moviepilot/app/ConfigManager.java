@@ -11,5 +11,5 @@ public class ConfigManager {
     public static final String KEY_IS_LOGGED_IN = "is_logged_in";
 
     // Defaults
-    public static final String DEFAULT_SERVER_URL = "http://27.10.114.118:5000";
+    public static final String DEFAULT_SERVER_URL = "";
 }
